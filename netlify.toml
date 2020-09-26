@@ -3,3 +3,9 @@
   to = "https://github.com/strubloid"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/book"
+  to = "http://git.strubloid.com/mygitbook"
+  status = 301
+  force = true
