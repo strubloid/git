@@ -6,6 +6,6 @@
 
 [[redirects]]
   from = "/book"
-  to = "http://git.strubloid.com/mygitbook"
+  to = "https://github.com/strubloid/mygitbook"
   status = 301
   force = true
