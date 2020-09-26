@@ -15,3 +15,10 @@
   to = "https://github.com/strubloid/.bash_aliases"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/strubloid-on-nextjs"
+  to = "https://github.com/strubloid/strubloid-on-nextjs"
+  status = 301
+  force = true
+
