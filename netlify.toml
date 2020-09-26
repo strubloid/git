@@ -9,3 +9,9 @@
   to = "https://github.com/strubloid/mygitbook"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/.bash_aliases"
+  to = "https://github.com/strubloid/.bash_aliases"
+  status = 301
+  force = true
