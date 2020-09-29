@@ -22,3 +22,9 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "/resume"
+  to = "https://github.com/strubloid/resume"
+  status = 301
+  force = true
+
